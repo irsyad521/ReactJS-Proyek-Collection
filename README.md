@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Irsyad Al Khairy</h1>
 <h3 align="center">A passionate developer and cybersecurity from Indonesia</h3>
-<img align="right" alt="coding" widht="350" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" style="border-radius: 20;">
+<img align="right" alt="coding" widht="350" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irsyad521&label=Profile%20views&color=0e75b6&style=flat" alt="irsyad521" /> </p>
 
